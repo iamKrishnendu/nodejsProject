@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "aws-sdk": "^2.479.0",
+        "aws-sdk": "^2.814.0",
         "node-uuid": ">= 1.4.1",
         "request": "^2.88.0",
         "uuid": "^3.3.2"
